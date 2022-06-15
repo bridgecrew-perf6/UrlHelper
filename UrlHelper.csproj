@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<License>MIT</License>
+    	<Authors>Thales C.</Authors>
+    	<Company>Thales</Company>
+    	<Version>1.0.0</Version>
+    	<PackageDescription>Extensions for URL</PackageDescription>
+    	<Description>Extensions for URL</Description>
+    	<RepositoryUrl>https://github.com/thaleshcorrea/UrlHelper</RepositoryUrl>
+    	<PackageProjectUrl>https://github.com/thaleshcorrea/UrlHelper</PackageProjectUrl>
+    	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+    	<PackageTags>UrlHelper</PackageTags>
+    	<Title>Extensions for URL</Title>
+    	<Summary>Extensions for URL</Summary>
+		</PropertyGroup>
+
+</Project>
