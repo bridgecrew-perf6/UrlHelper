@@ -14,7 +14,7 @@
     	<RepositoryUrl>https://github.com/thaleshcorrea/UrlHelper</RepositoryUrl>
     	<PackageProjectUrl>https://github.com/thaleshcorrea/UrlHelper</PackageProjectUrl>
     	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-    	<PackageTags>UrlHelper</PackageTags>
+    	<PackageTags>DefaultUrlHelper</PackageTags>
     	<Title>Extensions for URL</Title>
     	<Summary>Extensions for URL</Summary>
 		</PropertyGroup>
